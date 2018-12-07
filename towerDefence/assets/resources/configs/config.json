@@ -1,0 +1,81 @@
+{
+  "custom": {
+    "0": {
+      "id": "0",
+      "minutia": [
+        {
+          "minutia": 1,
+          "enemy": 111,
+          "startTime": 2,
+          "rewardTime": 1,
+          "power": 7,
+          "intervalTime": 1
+        },
+        {
+          "minutia": 2,
+          "enemy": 11,
+          "startTime": 2.4,
+          "rewardTime": 1.2,
+          "power": 7,
+          "intervalTime": 1
+        },
+        {
+          "minutia": 3,
+          "enemy": 1,
+          "startTime": 2.8,
+          "rewardTime": 1.4,
+          "power": 7,
+          "intervalTime": 1
+        },
+        {
+          "minutia": 4,
+          "enemy": 11,
+          "startTime": 3.2,
+          "rewardTime": 1.6,
+          "power": 7,
+          "intervalTime": 1
+        },
+        {
+          "minutia": 5,
+          "enemy": 1111,
+          "startTime": 3.6,
+          "rewardTime": 1.8,
+          "power": 7,
+          "intervalTime": 1
+        },
+        {
+          "minutia": 6,
+          "enemy": 111,
+          "startTime": 4,
+          "rewardTime": 2,
+          "power": 7,
+          "intervalTime": 1
+        },
+        {
+          "minutia": 7,
+          "enemy": 11,
+          "startTime": 4.4,
+          "rewardTime": 2.2,
+          "power": 7,
+          "intervalTime": 1
+        }
+      ]
+    }
+  },
+  "enemys": [
+    {
+      "id": 1,
+      "speed": 3,
+      "hp": 100
+    }
+  ],
+  "towers": [
+    {
+      "id": 1,
+      "attackSpeed": 0.3,
+      "harm": 20,
+      "hp": 100,
+      "range": 200
+    }
+  ]
+}
